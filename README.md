@@ -6,6 +6,6 @@ Object detection using jetson nano from phone video
   just hop on to that buddies.It is preety striaght forward. And one more on your mobile 
   ### ipwebcam app
   If you don't understand anything or you gets stucks anywhere feel free to ask me.
-  ### Linkedin:http://linkedin.com/in/manoj-gowra
+  ### Linkedinhttps://www.linkedin.com/in/manoj-gowra-9b9668150/
   
   Alright...
